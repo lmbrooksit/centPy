@@ -1,4 +1,4 @@
 import platform
 
-print(platform.system())
+print('this computer is using a ' + platform.system() + ' operating system')
 
