@@ -1,4 +1,4 @@
 import platform
 
-print('this computer is using a ' + platform.system() + ' operating system')
+print('This VM is running on a ' + platform.system() + ' operating system.')
 
